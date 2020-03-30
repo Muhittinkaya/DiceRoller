@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="first_app_in_kotlin">First app in Kotlin</string>
+    <string name="roll">Roll</string>
+</resources>
